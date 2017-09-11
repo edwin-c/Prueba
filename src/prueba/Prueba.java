@@ -18,5 +18,8 @@ public class Prueba {
         // TODO code application logic here
         //https://github.com/edwin-c/Prueba.git
         //master
-    }  
+      
+        System.out.print("hola");
+    }
+    
 }
